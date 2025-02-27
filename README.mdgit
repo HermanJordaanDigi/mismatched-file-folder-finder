@@ -1,0 +1,1 @@
+# mismatched-file-folder-finder initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/HermanJordaanDigi/mismatched-file-folder-finder.gitgit push -u origin main
